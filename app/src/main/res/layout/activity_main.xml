@@ -32,6 +32,6 @@
         android:layout_height="wrap_content"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
-        android:text="테스트" />
+        android:text="테스트123" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
